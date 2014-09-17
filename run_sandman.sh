@@ -1,0 +1,1 @@
+ sandmanctl "postgresql://:@/knights"
